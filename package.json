@@ -15,7 +15,8 @@
     "amazon-ivs-react-native-player": "^1.2.0",
     "react": "18.0.0",
     "react-native": "0.69.0",
-    "react-native-svg": "^12.3.0"
+    "react-native-svg": "^12.3.0",
+    "react-query": "^3.39.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
